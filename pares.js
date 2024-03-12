@@ -2,5 +2,5 @@
 
     const pares = array.filter(item => item % 2 === 0);
 
-    console.log(pares);
+    console.log("Números pares: ", pares);
     
